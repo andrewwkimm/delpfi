@@ -1,0 +1,8 @@
+{
+    "cucumber.features": [
+        "test_acceptance/delpfi/features/*.feature"
+    ],
+    "cucumber.glue": [
+        "features/**/*.py"
+    ]
+}
